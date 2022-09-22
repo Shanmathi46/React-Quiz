@@ -1,0 +1,28 @@
+.question{
+    display: flex;
+    flex-direction: column;
+    
+    font-size: 20px;
+    height: 100%;
+    width: 100%;
+    background-color: moccasin;
+    h1{
+        text-align: center;
+    }
+    .eachquestion{
+        margin-left: 15%;
+    }
+    .btn{
+        text-decoration: none;
+        margin-left: 15%;
+        height: fit-content;
+        width: fit-content;
+        border: 1px solid black;
+        padding: 5px;
+        background-color: coral;
+        color: black;
+        
+        
+    }
+    
+}
